@@ -1,7 +1,7 @@
 # Trabalho_Iniciacao_a_Tecnologia
 Trabalho final da matéria de nivelamento desenvolvido em Portugol na [Residência de Software](http://serratec.org/residencia-de-software/).
 
-- Feito em grupo com [Carlos Augusto Soares Dos Santos](https://github.com/premafoco), [Marcelo Feitoza Barreto](https://github.com/marcelobarreto81), [Luis Felipe Granja](https://github.com/lfcgranja) e Ronaldo Rosário Ramos.
+- Feito em grupo com [Karine do Valle](https://github.com/KarinedoValle), [Carlos Augusto Soares Dos Santos](https://github.com/premafoco), [Marcelo Feitoza Barreto](https://github.com/marcelobarreto81), [Luis Felipe Granja](https://github.com/lfcgranja) e Ronaldo Rosário Ramos.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Conteúdo do trabalho:
